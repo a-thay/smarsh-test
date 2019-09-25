@@ -1,6 +1,7 @@
 ---
 title: Community Round-up
 date: '2019-05-27'
+thumb_img_path: /images/2.jpg
 content_img_path: images/2.jpg
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
