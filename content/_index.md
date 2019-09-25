@@ -2,7 +2,7 @@
 title: Home
 sections:
   - actions:
-      - label: Get Started
+      - label: API docs
         url: docs/index.html
     component: hero_block.html
     content: >-
@@ -81,8 +81,8 @@ sections:
         url: /docs/getting-started/installation.html
     component: cta_block.html
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
-    title: The Title of The Call to Action Block
+    subtitle: Take action on your archived content.
+    title: Get started with Enterprise Archive
     type: ctablock
   - actions:
       - label: Get Started
