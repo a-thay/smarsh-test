@@ -1,6 +1,9 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; Smarsh Inc. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Legal Notices and Disclaimer
+    url: 'https://docs.smarsh.com/display/ADP/Legal+Notices+and+Disclaimer'
+  - new_window: true
+    text: Smarsh Central
+    url: 'https://central.smarsh.com/s/'
 has_social: true
