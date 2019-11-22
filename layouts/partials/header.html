@@ -23,7 +23,6 @@
           {{ $include_dict := dict "menu" $menu "menu_class" "menu" "page" . }}
           {{ partial "menu.html" $include_dict }}
         </div><!-- .site-nav-inside -->
-        <div data-netlify-identity-button></div>
       </nav><!-- .site-navigation -->
       <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
       {{ end }}
